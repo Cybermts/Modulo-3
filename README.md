@@ -1,1 +1,2 @@
-# Modulo-3
+##Trabalhando com Lista
+Iterando e extraindo dados de uma lista
